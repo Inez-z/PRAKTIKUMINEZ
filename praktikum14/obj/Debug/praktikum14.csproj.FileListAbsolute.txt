@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\praktikum14\praktikum14\bin\Debug\praktikum14.exe.config
+C:\Users\ASUS\source\repos\praktikum14\praktikum14\bin\Debug\praktikum14.exe
+C:\Users\ASUS\source\repos\praktikum14\praktikum14\bin\Debug\praktikum14.pdb
+C:\Users\ASUS\source\repos\praktikum14\praktikum14\obj\Debug\praktikum14.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\praktikum14\praktikum14\obj\Debug\praktikum14.Form1.resources
+C:\Users\ASUS\source\repos\praktikum14\praktikum14\obj\Debug\praktikum14.Properties.Resources.resources
+C:\Users\ASUS\source\repos\praktikum14\praktikum14\obj\Debug\praktikum14.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\praktikum14\praktikum14\obj\Debug\praktikum14.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\praktikum14\praktikum14\obj\Debug\praktikum14.exe
+C:\Users\ASUS\source\repos\praktikum14\praktikum14\obj\Debug\praktikum14.pdb
